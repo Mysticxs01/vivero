@@ -8,6 +8,6 @@ public class UsuarioModel {
     private String email;
     private String password;
 
-    private TipoUsuario tipo;
+    // private TipoUsuario tipo; // Comentado temporalmente - no es parte de los requisitos
 
 }
