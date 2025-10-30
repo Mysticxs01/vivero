@@ -24,9 +24,10 @@ Este proyecto cumple con todos los requisitos solicitados en la actividad acadé
 
 - **[README.md](README.md)** - Este archivo (visión general)
 - **[INSTALACION.md](INSTALACION.md)** - Guía completa de instalación y ejecución
+- **[DATOS_PRUEBA.md](DATOS_PRUEBA.md)** - Documentación de los datos de prueba
+- **[EJECUCION.md](EJECUCION.md)** - Guía de ejecución y solución de problemas
 - **[contexto/DIAGRAMA_CLASES.md](contexto/DIAGRAMA_CLASES.md)** - Diagrama de clases detallado
 - **[contexto/RESUMEN_IMPLEMENTACION.md](contexto/RESUMEN_IMPLEMENTACION.md)** - Resumen de implementación
-- **[contexto/tarea.md](contexto/tarea.md)** - Descripción original de la tarea
 
 ## Modelo de Datos
 
