@@ -11,4 +11,6 @@ import java.util.List;
 public interface LaborRepository extends JpaRepository<LaborModel, Long> {
     List<LaborModel> findByViveroId(Long viveroId);
     List<LaborModel> findByFecha(LocalDate fecha);
+    List<LaborModel> findByFechaBetween(LocalDate fechaInicio, LocalDate fechaFin);
+    List<LaborModel> findByProductoControlId(Long productoControlId);
 }
