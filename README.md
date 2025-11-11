@@ -271,7 +271,7 @@ vivero/
 └── README.md
 ```
 
-## Autor
+## Autora
 
 Angie - Sistema de Gestión de Viveros
 

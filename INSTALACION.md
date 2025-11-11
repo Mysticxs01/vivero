@@ -98,11 +98,6 @@ mvn clean compile
 .\mvnw.cmd test
 ```
 
-#### En Linux/Mac:
-```bash
-./mvnw test
-```
-
 ### Usando Maven instalado:
 ```bash
 mvn test
@@ -115,11 +110,6 @@ mvn test
 #### En Windows (PowerShell):
 ```powershell
 .\mvnw.cmd spring-boot:run
-```
-
-#### En Linux/Mac:
-```bash
-./mvnw spring-boot:run
 ```
 
 ### Usando Maven instalado:
@@ -253,14 +243,3 @@ O configurar en `application.properties`:
 ```properties
 spring.devtools.restart.enabled=true
 ```
-
-## Contacto y Soporte
-
-Para problemas o preguntas:
-- Revisar la documentación en `README.md`
-- Consultar el diagrama de clases en `contexto/DIAGRAMA_CLASES.md`
-- Revisar el resumen de implementación en `contexto/RESUMEN_IMPLEMENTACION.md`
-
----
-
-**¡Listo para usar!** 🚀

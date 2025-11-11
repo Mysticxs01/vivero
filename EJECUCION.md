@@ -194,16 +194,3 @@ mysql -u root -proot vivero < src\main\resources\data.sql
 ```
 
 ---
-
-## 📝 Notas importantes
-
-1. **La aplicación es un servidor web**: Debe mantenerse ejecutándose para responder peticiones HTTP
-2. **No confundir con scripts**: A diferencia de un script que se ejecuta y termina, un servidor web permanece activo
-3. **Múltiples ventanas**: Puedes tener la aplicación corriendo en una terminal y ejecutar comandos en otra
-4. **Perfil dev**: El perfil `dev` está activo por defecto (carga datos de prueba automáticamente)
-
----
-
-**Fecha:** Octubre 30, 2025  
-**Versión:** 1.0.0  
-**Framework:** Spring Boot 3.5.5
